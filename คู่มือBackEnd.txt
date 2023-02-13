@@ -1,0 +1,3 @@
+คู่มือ BackEnd
+- OrderCustomer => ที่เป็นค่าว่าง คือ ID , ProofOfPayment , OrderID
+- RepostOrderAll => จะนับ พ.ศ. ด้วย
